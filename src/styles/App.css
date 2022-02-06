@@ -1,0 +1,33 @@
+*
+{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}div.app
+{
+
+  min-height: 100vh; 
+  display: flex;
+  flex-direction: column;
+  width: 90%;
+  margin: auto;
+  font-family: 'Times New Roman', Times, serif;
+  text-align: center;
+}
+header{
+ 
+  margin-bottom: 10px;
+  flex-basis: 40vh;
+}
+main
+{
+  display: flex;
+  flex-grow: 1;
+}
+aside{
+  width: 30%;
+}
+section{
+
+  flex-grow: 1;
+}

@@ -1,0 +1,12 @@
+article
+{
+    padding: 20px;
+    text-align: justify;
+}
+h1
+{
+    text-transform: uppercase;
+}
+article,h1,h5,p{
+    margin-bottom: 10px;
+}
