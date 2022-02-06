@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/appRouter/static/css/main.a03746b2.css",
-    "main.js": "/appRouter/static/js/main.361d7174.js",
+    "main.js": "/appRouter/static/js/main.316112bd.js",
     "static/js/787.759e47f1.chunk.js": "/appRouter/static/js/787.759e47f1.chunk.js",
     "static/media/pots2.jpg": "/appRouter/static/media/pots2.a2ef82e3e6369b0fa18c.jpg",
     "index.html": "/appRouter/index.html",
     "main.a03746b2.css.map": "/appRouter/static/css/main.a03746b2.css.map",
-    "main.361d7174.js.map": "/appRouter/static/js/main.361d7174.js.map",
+    "main.316112bd.js.map": "/appRouter/static/js/main.316112bd.js.map",
     "787.759e47f1.chunk.js.map": "/appRouter/static/js/787.759e47f1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a03746b2.css",
-    "static/js/main.361d7174.js"
+    "static/js/main.316112bd.js"
   ]
 }
